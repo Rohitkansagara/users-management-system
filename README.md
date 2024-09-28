@@ -166,3 +166,7 @@ Integrate social login options (Google, Facebook).
 some photos of this project output::
 
 ![Screenshot (164)](https://github.com/user-attachments/assets/4ba0c7e8-b54c-4a9f-bd72-0b7a57ea7908)
+![Screenshot (162)](https://github.com/user-attachments/assets/a99f7e17-eca8-492e-86b5-e32b25933c09)
+![Screenshot (163)](https://github.com/user-attachments/assets/55630a67-f280-4ffd-b11c-206392832294)
+
+
