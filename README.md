@@ -27,29 +27,14 @@ Backend:
 🏗️ Maven for project management
 
 
-📁 Project Structure
+📁 Project Structure:
 
-/backend
-  /src
-    /main
-      /java/com/project/usermanagement
-        ├── config/            # Security and JWT configurations
-        ├── controller/        # REST controllers for handling API requests
-        ├── entity/            # User entity and database table mapping
-        ├── repository/        # Database interaction (UserRepository)
-        ├── service/           # Business logic for user management
-        ├── util/              # JWT utility classes
-      /resources
-        └── application.properties   # Database configuration and other properties
+![image](https://github.com/user-attachments/assets/62b9794e-2176-4d81-a753-a202189111c8)
 
-/frontend
-  /src
-    /components/           # Reusable components like Navbar, Footer
-    /pages/                # Pages like Login, Registration, Profile, Admin Dashboard
-    /services/             # API service methods
-    ├── App.js             # Main App component
-    ├── index.js           # Entry point
-  /public/
+
+
+
+
 
 
 
